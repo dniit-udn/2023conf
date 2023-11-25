@@ -200,6 +200,102 @@ languages:
           name: Wiki
           url: https://wiki.ubuntu.com/UbuconAsia/2022
           weight: 60
+  vi:
+    languageName: Việt Nam
+    title: UbuCon Asia 2022
+    weight: 1
+    params:
+      descriptionOnHomepage: >-
+        The first In-person Ubuntu Asia conference in South Korea.
+      description: November 26th ~ 27th | Nuritkum Square, Seoul, South Korea
+      period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
+      venueName: Nuritkum Square 3F~4F
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: about
+          weight: 10
+        - identifier: venue-travel-group
+          name: Venue & Travel
+          url: venue-and-travel
+          weight: 20
+        - identifier: venue
+          parent: venue-travel-group
+          name: Venue & Safety
+          url: venue-and-travel/venue-and-safety
+          weight: 21
+        - identifier: entry-and-visa
+          parent: venue-travel-group
+          name: Entry requirements and Visa
+          url: venue-and-travel/entry-and-visa
+          weight: 22
+        - identifier: travel-sponsorship
+          parent: venue-travel-group
+          name: Travel sponsorship
+          url: venue-and-travel/travel-sponsorship
+          weight: 23
+        - identifier: accommodations
+          parent: venue-travel-group
+          name: Accomodations
+          url: venue-and-travel/accommodations
+          weight: 24
+        - identifier: tourism
+          parent: venue-travel-group
+          name: Tourism
+          url: venue-and-travel/tourism
+          weight: 25
+        - identifier: visitseoul
+          parent: venue-travel-group
+          name: VisitSeoul.net
+          url: https://english.visitseoul.net/index
+          weight: 26
+        - identifier: programs-group
+          name: Programs
+          url: programs
+          weight: 30
+        - identifier: call-for-proposals
+          parent: programs-group
+          name: Call for proposals
+          url: call-for-proposals
+          weight: 31
+        - identifier: sessions
+          parent: programs-group
+          name: Sessions
+          url: sessions
+          weight: 32
+        - identifier: social-events
+          parent: programs-group
+          name: Social events
+          url: social-events
+          weight: 33
+        - identifier: sponsors-group
+          name: Sponsors/Patrons
+          url: sponsors
+          weight: 40
+        - identifier: become-a-sponsor
+          parent: sponsors-group
+          name: Become a sponsor
+          url: become-a-sponsor
+          weight: 41
+        - identifier: sponsors
+          parent: sponsors-group
+          name: Sponsors
+          url: sponsors
+          weight: 42
+        - identifier: patrons
+          parent: sponsors-group
+          name: Individual patrons
+          url: patrons
+          weight: 43
+        - identifier: news
+          name: News
+          url: news
+          weight: 50
+        - identifier: wiki
+          name: Wiki
+          url: https://wiki.ubuntu.com/UbuconAsia/2022
+          weight: 60
   id:
     languageName: Bahasa Indonesia
     title: UbuCon Asia 2022

@@ -1,0 +1,129 @@
+[learn_more]
+other = "Tìm hiểu thêm"
+[featured] 
+other = "Phiên bản nổi bật"
+[all_sessions] 
+other = "Tất cả các phiên"
+[more_sessions]
+other = "Thêm phiên"
+[sponsors] 
+other = "Nhà tài trợ"
+[become_sponsor]
+other = "Trở thành nhà tài trợ"
+[more_sponsors]
+other = "Thêm nhà tài trợ"
+[about]
+other = "Về chúng tôi"
+[news]
+other = "Tin tức"
+[sessions]
+other = "Các phiên"
+[ical_add]
+other = "Thêm vào lịch (* Tệp .ics)"
+[ical_subscribe]
+other = "Đăng ký lịch (webcal)"
+[ical]
+other = "Lịch trình phiên hội thảo"
+[register_now]
+other = "Đăng ký ngay"
+[attendee]
+other = "Người tham dự"
+[submit_proposal]
+other = "Gửi đề xuất"
+[host_communities]
+other = "Cộng đồng Đăng cai"
+[more_hosts]
+other = "Thêm cộng đồng Đăng cai"
+[ubuntu_locos]
+other = "Cộng đồng Địa phương Ubuntu"
+[other_foss]
+other = "Cộng đồng Phần mềm Tự do và Mã nguồn mở khác"
+[diamond_sp]
+other = "Nhà tài trợ Kim cương"
+[gold_sp]
+other = "Nhà tài trợ Vàng"
+[silver_sp]
+other = "Nhà tài trợ Bạc"
+[bronze_sp]
+other = "Nhà tài trợ Đồng"
+[supporter_sp]
+other = "Nhà tài trợ Ủng hộ"
+[infra_sp]
+other = "Nhà tài trợ Cơ sở hạ tầng sự kiện"
+[record_sp]
+other = "Nhà tài trợ Ghi hình video"
+[dinner_sp]
+other = "Nhà tài trợ Bữa tối Hội nghị"
+[venue_sp]
+other = "Nhà tài trợ Địa điểm"
+[partner_cm]
+other = "Đối tác Cộng đồng"
+[name]
+other = "Tên"
+[donated_at]
+other = "Mua vé quyên góp tại"
+[type]
+other = "Loại"
+[title]
+other = "Tiêu đề"
+[language]
+other = "Ngôn ngữ"
+[speakers]
+other = "Diễn giả"
+[session_duration]
+other = "Thời lượng phiên"
+[details_later]
+other = "Thông tin chi tiết sẽ có sau"
+[search]
+other = "Tìm kiếm"
+[menu]
+other = "Menu"
+[close_menu]
+other = "Đóng menu"
+[sponsor_promo_image]
+other = "Nhận hình ảnh quảng cáo từ nhà tài trợ"
+[last_update]
+other = "Cập nhật lần cuối"
+[privacy_policy]
+other = "Chính sách bảo mật"
+[tickets]
+other = "Mua vé"
+[gov_partners]
+other = "Đối tác Chính phủ"
+[session_promo_image]
+other = "Nhận hình ảnh quảng cáo phiên hội thảo"
+
+[cat_other]
+other = "Khác"
+[cat_desktop]
+other = "Môi trường máy tính"
+[cat_cloud]
+other = "Đám mây và Cơ sở hạ tầng"
+[cat_wsl]
+other = "Windows Subsystem for Linux (WSL)"
+[cat_l10n]
+other = "Hóa địa, Quốc tế hóa và Tiện ích Truy cập"
+[cat_iot]
+other = "Internet of Things (IoT), Thiết bị nhúng, Robot và Thiết bị"
+[cat_packaging]
+other = "Đóng gói"
+[cat_docs]
+other = "Tài liệu, Kiểm thử và Phân loại lỗi"
+[cat_sec]
+other = "Bảo mật, Tuân thủ và Hạt nhân"
+[cat_data]
+other = "Dữ liệu và Trí tuệ nhân tạo (AI)"
+[cat_content]
+other = "Nội dung và Thiết kế"
+[cat_community]
+other = "Cộng đồng, Đa dạng, Tiếp cận Địa phương và Bối cảnh Xã hội"
+
+[room_intlroom]
+other = "Phòng Quốc tế"
+[room_mid]
+other = "Phòng kích thước trung bình 2"
+[room_large]
+other = "Phòng lớn"
+
+[join_online]
+other = "Tham gia trực tuyến"
